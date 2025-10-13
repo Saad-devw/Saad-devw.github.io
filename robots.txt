@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: http://saad-devw.github.io/sitemap.xml
-Host: saad-devw.github.io
